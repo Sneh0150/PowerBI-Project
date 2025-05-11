@@ -71,8 +71,8 @@ Implemented using **DAX measures** such as `PREVIOUSMONTH()`, `CALCULATE()`, and
 ## 🚧 Challenges
 
 - Creating a **dynamic calculation** to display:
-  - Top 1 Product and group others as "Others"
-  - Top 1 Store and group others as "Others"
+  - Top N Product and group others as "Others"
+  - Top N Store.
 ---
 ![Project ToyReveue](https://github.com/user-attachments/assets/0ef85d2f-b8c0-4720-833e-553a972e4818)
 
